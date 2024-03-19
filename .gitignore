@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcworkspace/
+
+# Build products
+build/
+DerivedData/
+
+# Logs and data files
+*.log
+*.sqlite
+*.xcuserstate
+
+# CocoaPods
+Pods/
+Podfile.lock
+Pods-*
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+/.expo
+/.expo-shared
+/__tests__/coverage
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/*.xcworkspace
+android/app/build/
+android/captures/
+
+# IDE
+.idea/
+.vscode/
+
+# OS-specific files
+._*
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# Package-lock files
+package-lock.json
+yarn.lock

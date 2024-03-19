@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>887062264085-58gnhc7ub6dbr617cjn98k8ltrq0url0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2RAyLAVOCd7Fr0tJhKQD_StG6hU9Achg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887062264085</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartgas.cosumerapp</string>
+	<key>PROJECT_ID</key>
+	<string>esyasoftmonitor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esyasoftmonitor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887062264085:ios:8371f8540f8cc8d683511c</string>
+	<key>DATABASE_URL</key>
+	<string>https://esyasoftmonitor.firebaseio.com</string>
+</dict>
+</plist>

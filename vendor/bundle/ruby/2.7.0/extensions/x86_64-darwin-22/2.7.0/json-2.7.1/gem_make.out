@@ -1,0 +1,13 @@
+current directory: /Users/admin/Desktop/GAS/SmartgasConsumerApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+/Users/admin/.rbenv/versions/2.7.4/bin/ruby -I /Users/admin/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20240124-8080-yqccr1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/admin/Desktop/GAS/SmartgasConsumerApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/admin/Desktop/GAS/SmartgasConsumerApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/admin/Desktop/GAS/SmartgasConsumerApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
